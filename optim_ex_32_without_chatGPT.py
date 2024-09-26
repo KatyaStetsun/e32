@@ -38,3 +38,4 @@ plt.plot(range(n), X_theoretical, label="Theoretical Solution")
 plt.show()
 
 #graphick - it is what we need to have
+#added this code to the github
